@@ -15,7 +15,7 @@ class Welfare:
 def load_welfare(db, arg1):
     url = "http://apis.data.go.kr/B554287/NationalWelfareInformations/NationalWelfarelist"
     params = {
-        'serviceKey': 'a6/EcaYI3Q3If3xB3y7ocusVv02c26cqlWtZe8pWCNW7aME6i0bJUTMWZTk1VoZ1VXOxkYw/2Y5KuoPILNA/Dw==',
+        'serviceKey': '',
         'callTp': 'L',
         'pageNo': '1',
         'numOfRows': '50',
