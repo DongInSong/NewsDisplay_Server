@@ -1,6 +1,6 @@
 # NewsDisplay
 
-![KakaoTalk_20241122_183547486](https://github.com/user-attachments/assets/d6aa7758-c78c-424f-985c-a56433215ece)
+![KakaoTalk_20241122_183547486](https://github.com/user-attachments/assets/3a708b68-17fe-40aa-8d66-d7268d24625b)
 
 ![Screenshot_20230615_003553](https://github.com/user-attachments/assets/8ed65b9b-214d-4822-b72a-9ba2e9c2ce4c)
 
